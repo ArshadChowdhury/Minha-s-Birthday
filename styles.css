@@ -1,0 +1,90 @@
+body {
+  text-align: center;
+  background-image: url(https://cdn.pixabay.com/photo/2017/05/23/22/33/birthday-2338813_960_720.jpg);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-attachment: fixed;
+  background-size: cover;
+}
+
+
+h1 {
+  font-size: 9em;
+  font-family: 'Averia Libre', cursive;
+  font-weight: 900;
+  background-color: #7D0633;
+  color:#FFB319;
+}
+
+#demo {
+  padding: 5px;
+  background-color: rgba(0, 0, 0, .6);
+  display: inline-block;
+  font-family: 'Gemunu Libre', sans-serif;
+  font-size: 7em;
+  font-weight: bold;
+  color:#0CECDD;
+  padding: 20px;
+
+}
+
+.gif {
+  height: 700px;
+  width: 80%;
+}
+p {
+  padding: 5px;
+  font-family: 'Gemunu Libre', sans-serif;
+  background-color: rgba(0, 0, 0, .6);
+  font-size: 5em;
+  font-weight: bold;
+  color:#FFB319;
+  padding: 20px;
+}
+.about {
+  font-size: 9em;
+  font-family: 'Averia Libre', cursive;
+  font-weight: 900;
+  background-color: #7D0633;
+  color: #0CECDD
+}
+h3 {
+  font-family: 'Averia Libre', cursive;
+  background-color: rgba(0, 0, 0, .6);
+  font-size: 7em;
+    color: #0CECDD;
+}
+
+.myButton {
+	box-shadow: 0px 0px 0px 2px #9fb4f2;
+	background:linear-gradient(to bottom, #7892c2 5%, #476e9e 100%);
+	background-color:#7892c2;
+	border-radius:100px;
+	border:10px solid #4e6096;
+	display:inline-block;
+	cursor:pointer;
+	color:#ffffff;
+	font-family:Arial;
+	font-size:7em;
+	padding:12px 37px;
+	text-decoration:none;
+	text-shadow:0px 1px 0px #283966;
+}
+.myButton:hover {
+	background:linear-gradient(to bottom, #476e9e 5%, #7892c2 100%);
+	background-color:#476e9e;
+}
+.myButton:active {
+	top:1px;
+}
+.margin {
+  margin-top: 30px;
+}
+.nb {
+  font-family: 'Gemunu Libre', sans-serif;
+  background-color: rgba(0, 0, 0, .6);
+  font-size: 1em;
+
+  color:#FFB319;
+  padding: 5px;
+}
